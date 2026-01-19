@@ -1,3 +1,8 @@
+## 👋 Hi, I'm Anik Das
+
+🎓 MCA Student (2024–2026) | 💻 Aspiring Software & IT Professional  
+📍 Bhubaneswar, Odisha  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anik-das-94193034b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anik.das.9692@gmail.com) 
